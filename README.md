@@ -14,6 +14,7 @@ This project consists of two parts:
 
 You can run the server part with docker: ```docker-compose up```.
 The web server runs on port 8085. You can change this in docker-compose.yml.
+create an empty htdocs/data.txt file and enable read/write access for webserver.
 
 ## Installation on iPhone
 
