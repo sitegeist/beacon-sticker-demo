@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/beacons.iml" filepath="$PROJECT_DIR$/.idea/beacons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beacon.sitegeist.de.iml" filepath="$PROJECT_DIR$/.idea/beacon.sitegeist.de.iml" />
     </modules>
   </component>
 </project>

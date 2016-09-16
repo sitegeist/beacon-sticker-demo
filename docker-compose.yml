@@ -1,0 +1,10 @@
+php-apache:
+  image: php:5.6-apache
+  restart: always
+  ports:
+   - "127.0.0.1:8085:80"
+  volumes:
+   - ./htdocs:/var/www/html
+  environment:
+   - VIRTUAL_HOST=beacon.sitegeist.de
+   - VIRTUAL_PORT=8085
